@@ -10,7 +10,7 @@ Current build and uses
 
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-AWS&logoColor=yellow&color=white)
-![](https://img.shields.io/badge/PRUSA-MK4-informational?style=flat&logo=prusa&logoColor=white&color=orange)
+![](https://img.shields.io/badge/PRUSA-CoreOne-informational?style=flat&logo=prusa&logoColor=white&color=orange)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimJKStrickland&show_icons=true&theme=dark)
